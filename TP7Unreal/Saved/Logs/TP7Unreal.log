@@ -826,3 +826,458 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-13.11.57:109][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
 [2020.02.04-13.11.57:109][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
 [2020.02.04-13.11.57:812][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.04-13.16.19:269][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.04-13.16.22:936][750]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.04-13.16.30:646][665]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.04-13.16.30:655][665]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2020.02.04-13.16.30:659][665]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.04-13.16.30:662][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.02.04-13.16.30:662][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.02.04-13.16.30:663][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.02.04-13.16.30:663][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.02.04-13.16.30:663][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.02.04-13.16.30:664][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.02.04-13.16.30:664][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.02.04-13.16.30:664][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.02.04-13.16.30:664][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.02.04-13.16.30:665][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.02.04-13.16.30:665][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.02.04-13.16.30:665][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.02.04-13.16.30:666][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.02.04-13.16.30:666][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.02.04-13.16.30:666][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.02.04-13.16.30:667][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.02.04-13.16.30:667][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.02.04-13.16.30:674][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Fire01.uasset"
+[2020.02.04-13.16.30:674][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.02.04-13.16.30:675][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.02.04-13.16.30:675][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.02.04-13.16.30:675][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Light01.uasset"
+[2020.02.04-13.16.30:676][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.02.04-13.16.30:676][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Light02.uasset"
+[2020.02.04-13.16.30:677][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.02.04-13.16.30:677][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.02.04-13.16.30:677][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.02.04-13.16.30:678][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.02.04-13.16.30:679][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.02.04-13.16.30:683][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.02.04-13.16.30:683][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.02.04-13.16.30:684][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.02.04-13.16.30:686][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.02.04-13.16.30:687][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Steam01.uasset"
+[2020.02.04-13.16.30:687][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.02.04-13.16.30:687][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.02.04-13.16.30:687][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.02.04-13.16.30:688][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.02.04-13.16.30:688][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.02.04-13.16.30:688][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.02.04-13.16.30:688][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.02.04-13.16.30:689][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.02.04-13.16.30:689][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.02.04-13.16.30:689][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.02.04-13.16.30:690][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.02.04-13.16.30:690][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.02.04-13.16.30:690][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.02.04-13.16.30:690][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.02.04-13.16.30:691][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.02.04-13.16.30:692][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.02.04-13.16.30:692][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.02.04-13.16.30:729][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.02.04-13.16.30:730][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.02.04-13.16.30:730][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.02.04-13.16.30:731][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.02.04-13.16.30:733][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.02.04-13.16.30:733][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Maps/StarterMap.umap"
+[2020.02.04-13.16.30:744][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.02.04-13.16.30:745][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.02.04-13.16.30:745][665]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Basic_Floor.uasset".
+[2020.02.04-13.16.30:745][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.02.04-13.16.30:745][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.02.04-13.16.30:746][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.02.04-13.16.30:746][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.02.04-13.16.30:746][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.02.04-13.16.30:746][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.02.04-13.16.30:747][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.02.04-13.16.30:747][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.02.04-13.16.30:747][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.02.04-13.16.30:748][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.02.04-13.16.30:748][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.02.04-13.16.30:748][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.02.04-13.16.30:749][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.02.04-13.16.30:749][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.02.04-13.16.30:749][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.02.04-13.16.30:750][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.02.04-13.16.30:750][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.02.04-13.16.30:750][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.02.04-13.16.30:751][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.02.04-13.16.30:751][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.02.04-13.16.30:752][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.02.04-13.16.30:752][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.02.04-13.16.30:752][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.02.04-13.16.30:753][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.02.04-13.16.30:753][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.02.04-13.16.30:753][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.02.04-13.16.30:754][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.02.04-13.16.30:754][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.02.04-13.16.30:754][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.02.04-13.16.30:755][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.02.04-13.16.30:755][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.02.04-13.16.30:755][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.02.04-13.16.30:756][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.02.04-13.16.30:756][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.02.04-13.16.30:756][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.02.04-13.16.30:756][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.02.04-13.16.30:757][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.02.04-13.16.30:757][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.02.04-13.16.30:757][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.02.04-13.16.30:758][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.02.04-13.16.30:758][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.02.04-13.16.30:758][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.02.04-13.16.30:758][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.02.04-13.16.30:759][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.02.04-13.16.30:759][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.02.04-13.16.30:759][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.02.04-13.16.30:760][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.02.04-13.16.30:760][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.02.04-13.16.30:760][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.02.04-13.16.30:760][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.02.04-13.16.30:761][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.02.04-13.16.30:761][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.02.04-13.16.30:761][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.02.04-13.16.30:761][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.02.04-13.16.30:762][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.02.04-13.16.30:762][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.02.04-13.16.30:762][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.02.04-13.16.30:763][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.02.04-13.16.30:763][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.02.04-13.16.30:763][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.02.04-13.16.30:763][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.02.04-13.16.30:764][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.02.04-13.16.30:764][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Door.uasset"
+[2020.02.04-13.16.30:764][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.02.04-13.16.30:765][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.02.04-13.16.30:765][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.02.04-13.16.30:765][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.02.04-13.16.30:767][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.02.04-13.16.30:767][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.02.04-13.16.30:767][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.02.04-13.16.30:768][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.02.04-13.16.30:768][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.02.04-13.16.30:769][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.02.04-13.16.30:769][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.02.04-13.16.30:770][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.02.04-13.16.30:770][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.02.04-13.16.30:770][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.02.04-13.16.30:770][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.02.04-13.16.30:771][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.02.04-13.16.30:771][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.02.04-13.16.30:771][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.02.04-13.16.30:772][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.02.04-13.16.30:772][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.02.04-13.16.30:772][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.02.04-13.16.30:772][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.02.04-13.16.30:773][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.02.04-13.16.30:773][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.02.04-13.16.30:773][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.02.04-13.16.30:774][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.02.04-13.16.30:774][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.02.04-13.16.30:774][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.02.04-13.16.30:774][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.02.04-13.16.30:775][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.02.04-13.16.30:775][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.02.04-13.16.30:775][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.02.04-13.16.30:776][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.02.04-13.16.30:776][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.02.04-13.16.30:776][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.02.04-13.16.30:777][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.02.04-13.16.30:777][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.02.04-13.16.30:777][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.02.04-13.16.30:777][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.02.04-13.16.30:778][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.02.04-13.16.30:778][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.02.04-13.16.30:778][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.02.04-13.16.30:778][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.02.04-13.16.30:779][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.02.04-13.16.30:782][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.02.04-13.16.30:787][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.02.04-13.16.30:790][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.02.04-13.16.30:793][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.02.04-13.16.30:798][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.02.04-13.16.30:802][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.02.04-13.16.30:808][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.02.04-13.16.30:812][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.02.04-13.16.30:818][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.02.04-13.16.30:821][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.02.04-13.16.30:825][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.02.04-13.16.30:828][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.02.04-13.16.30:833][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.02.04-13.16.30:833][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.02.04-13.16.30:834][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.02.04-13.16.30:834][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.02.04-13.16.30:835][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.02.04-13.16.30:835][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.02.04-13.16.30:836][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.02.04-13.16.30:837][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.02.04-13.16.30:838][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.02.04-13.16.30:843][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.02.04-13.16.30:844][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.02.04-13.16.30:849][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.02.04-13.16.30:850][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.02.04-13.16.30:852][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.02.04-13.16.30:856][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.02.04-13.16.30:860][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.02.04-13.16.30:864][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.02.04-13.16.30:869][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.02.04-13.16.30:873][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.02.04-13.16.30:876][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.02.04-13.16.30:882][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.02.04-13.16.30:886][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.02.04-13.16.30:888][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.02.04-13.16.30:891][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.02.04-13.16.30:894][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.02.04-13.16.30:894][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.02.04-13.16.30:896][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.02.04-13.16.30:896][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.02.04-13.16.30:897][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.02.04-13.16.30:897][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.02.04-13.16.30:899][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.02.04-13.16.30:899][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.02.04-13.16.30:900][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.02.04-13.16.30:901][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.02.04-13.16.30:902][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.02.04-13.16.30:902][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.02.04-13.16.30:908][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.02.04-13.16.30:913][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.02.04-13.16.30:918][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.02.04-13.16.30:922][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.02.04-13.16.30:928][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.02.04-13.16.30:932][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.02.04-13.16.30:933][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.02.04-13.16.30:935][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.02.04-13.16.30:941][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.02.04-13.16.30:945][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.02.04-13.16.30:949][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.02.04-13.16.30:954][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.02.04-13.16.30:955][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.02.04-13.16.30:959][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.02.04-13.16.30:963][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.02.04-13.16.30:964][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.02.04-13.16.30:967][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.02.04-13.16.30:971][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.02.04-13.16.30:972][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.02.04-13.16.30:984][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.02.04-13.16.30:988][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.02.04-13.16.30:991][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.02.04-13.16.30:994][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.02.04-13.16.30:998][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.02.04-13.16.31:012][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.02.04-13.16.31:017][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.02.04-13.16.31:022][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.02.04-13.16.31:026][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.02.04-13.16.31:027][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.02.04-13.16.31:028][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.02.04-13.16.31:028][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.02.04-13.16.31:030][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.02.04-13.16.31:030][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.02.04-13.16.31:030][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.02.04-13.16.31:031][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.02.04-13.16.31:031][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.02.04-13.16.31:032][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.02.04-13.16.31:033][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.02.04-13.16.31:033][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.02.04-13.16.31:034][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.02.04-13.16.31:034][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.02.04-13.16.31:035][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.02.04-13.16.31:036][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.02.04-13.16.31:038][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.02.04-13.16.31:039][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.02.04-13.16.31:040][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.02.04-13.16.31:042][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.02.04-13.16.31:044][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.02.04-13.16.31:045][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.02.04-13.16.31:048][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.02.04-13.16.31:051][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.02.04-13.16.31:056][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.02.04-13.16.31:058][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.02.04-13.16.31:061][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.02.04-13.16.31:063][665]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/Dev/TP7/TP7Unreal/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.02.04-13.16.31:063][665]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.02.04-13.16.31:066][665]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.02.04-13.16.31:097][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.02.04-13.16.31:106][665]LogSavePackage: Moving 'D:/Dev/TP7/TP7Unreal/Saved/Floor_400x400BCC9B300457544EB190176A65F1B1E19.tmp' to 'D:/Dev/TP7/TP7Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.02.04-13.16.31:158][665]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.04-13.16.36:598][317]LogSlate: Window 'Add Content to the Project' being destroyed
+[2020.02.04-13.17.02:108][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.04-13.17.08:905][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.02.04-13.17.17:607][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2020.02.04-13.17.18:266][  3]Cmd: DELETE
+[2020.02.04-13.17.18:266][  3]Cmd: ACTOR DELETE
+[2020.02.04-13.17.18:273][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.04-13.17.18:296][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.04-13.17.18:297][  3]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.04-13.17.18:993][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.02.04-13.17.19:216][109]Cmd: DELETE
+[2020.02.04-13.17.19:216][109]Cmd: ACTOR DELETE
+[2020.02.04-13.17.19:218][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.04-13.17.19:239][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.04-13.17.19:240][109]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.04-13.17.29:271][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.02.04-13.17.29:921][  8]Cmd: DELETE
+[2020.02.04-13.17.29:921][  8]Cmd: ACTOR DELETE
+[2020.02.04-13.17.29:922][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.04-13.17.29:942][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.04-13.17.29:942][  8]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.02.04-13.17.30:583][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2020.02.04-13.17.30:750][100]Cmd: DELETE
+[2020.02.04-13.17.30:750][100]Cmd: ACTOR DELETE
+[2020.02.04-13.17.30:751][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.04-13.17.30:772][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.02.04-13.17.30:773][100]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.02.04-13.17.31:135][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2020.02.04-13.17.31:242][152]Cmd: DELETE
+[2020.02.04-13.17.31:242][152]Cmd: ACTOR DELETE
+[2020.02.04-13.17.31:244][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.04-13.17.31:264][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.04-13.17.31:265][152]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.02.04-13.17.32:205][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2020.02.04-13.17.32:386][281]Cmd: DELETE
+[2020.02.04-13.17.32:386][281]Cmd: ACTOR DELETE
+[2020.02.04-13.17.32:387][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.04-13.17.32:407][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.02.04-13.17.32:407][281]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.02.04-13.17.42:171][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.02.04-13.17.45:042][739]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.02.04-13.17.45:389][768]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.02.04-13.17.49:537][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.18.05:670][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.18.19:082][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.18.23:975][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.19.09:981][583]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.04-13.19.28:578][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.19.36:587][882]Cmd: DUPLICATE
+[2020.02.04-13.19.36:587][882]Cmd: ACTOR DUPLICATE
+[2020.02.04-13.19.43:036][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.19.48:190][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.19.59:821][525]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.20.06:822][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.20.07:902][465]LogActorFactory: Actor Factory created Cube
+[2020.02.04-13.20.09:327][625]LogActorFactory: Actor Factory created Cube
+[2020.02.04-13.20.24:833][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.20.25:749][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.20.28:102][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.20.33:356][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.20.49:403][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.20.54:264][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.20.55:002][906]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.20.59:320][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.21.02:292][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.21.04:853][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.21.06:752][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.07:368][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.21.07:938][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.04-13.21.12:271][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.21.19:663][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.02.04-13.21.21:176][928]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.23:792][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.21.29:074][822]LogSlate: Took 0.007260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.04-13.21.32:768][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh2)
+[2020.02.04-13.21.33:224][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh2)
+[2020.02.04-13.21.34:371][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.02.04-13.21.35:159][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.02.04-13.21.36:331][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh2)
+[2020.02.04-13.21.38:005][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh2)
+[2020.02.04-13.21.39:771][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.40:597][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh2)
+[2020.02.04-13.21.42:220][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.02.04-13.21.43:342][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh2)
+[2020.02.04-13.21.44:016][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2020.02.04-13.21.44:763][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.45:429][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.02.04-13.21.47:905][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.21.52:115][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.53:782][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.21.55:470][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.56:495][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh2)
+[2020.02.04-13.21.57:117][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh2)
+[2020.02.04-13.21.57:751][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.21.58:877][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.22.06:874][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2020.02.04-13.22.07:782][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.22.08:538][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.22.21:098][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.22.25:432][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.02.04-13.22.27:505][510]Cmd: DUPLICATE
+[2020.02.04-13.22.27:505][510]Cmd: ACTOR DUPLICATE
+[2020.02.04-13.22.34:377][325]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.22.37:013][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2020.02.04-13.22.40:021][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.22.42:848][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.22.50:473][177]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.22.52:428][399]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.22.55:599][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.04-13.22.57:936][ 40]MapCheck: New page: Map Check
+[2020.02.04-13.22.57:945][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.04-13.22.57:954][ 40]LightingResults: New page: Lighting Build - 4 févr. 2020 15:22:57
+[2020.02.04-13.22.58:043][ 40]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.04-13.22.58:169][ 40]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.04-13.22.58:184][ 40]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.04-13.22.59:274][ 40]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.04-13.22.59:274][ 40]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1780
+[2020.02.04-13.23.01:913][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.04-13.23.01:914][ 40]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.04-13.23.01:914][ 40]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.04-13.23.01:914][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.04-13.23.01:914][ 40]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.04-13.23.02:053][ 40]LogEditorBuildUtils: Build time 0:04
+[2020.02.04-13.23.02:062][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.04-13.23.02:076][ 40]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.04-13.23.02:076][ 40]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.04-13.23.02:076][ 40]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.02.04-13.23.02:101][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.02.04-13.23.02:112][ 41]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.04-13.23.02:112][ 41]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.04-13.23.02:112][ 41]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer RampMaterial, compiling. 
+[2020.02.04-13.23.02:178][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.04-13.23.02:188][ 42]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.04-13.23.03:267][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.04-13.23.03:267][ 43]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.04-13.23.03:267][ 43]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.04-13.23.03:267][ 43]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.04-13.23.03:532][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.04-13.23.06:861][301]Job is a success!
+[2020.02.04-13.23.06:912][302]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport:      BrickData 150x5x5 = 0.1Mb
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport:          1: 13.3% covering 6.3% of volume
+[2020.02.04-13.23.06:937][302]LogVolumetricLightmapImport:          2: 83.3% covering 0.6% of volume
+[2020.02.04-13.23.07:299][302]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.02.04-13.23.07:299][302]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.04-13.23.07:299][302]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.04-13.23.07:299][302]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.02.04-13.23.07:299][302]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.02.04-13.23.07:299][302]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.02.04-13.23.07:400][302]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.02.04-13.23.07:400][302]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2020.02.04-13.23.07:425][302]Lightmass on PBIMOC41311: 3.32 sec total, 126 ms importing, 4 ms setup, 606 ms photons, 2.54 sec processing, 0 ms extra exporting [11/11 mappings]. Threads: 17.7 sec total, 3.69 sec processing.
+[2020.02.04-13.23.07:427][302]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 11 meshes in 2 LightmapResourceClusters (5.5 Meshes per cluster).
+[2020.02.04-13.23.07:451][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.04-13.23.07:457][302]LogStaticLightingSystem: Illumination: 9.48 sec (334 ms encoding lightmaps, 96 ms encoding shadowmaps)
+[2020.02.04-13.23.07:457][302]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.02.04-13.23.07:457][302]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.02.04-13.23.07:919][302]DumpUnbuiltLightIteractions
+[2020.02.04-13.23.07:919][302]Lights with unbuilt interactions: 0
+[2020.02.04-13.23.07:919][302]
+[2020.02.04-13.23.07:920][302]Primitives with unbuilt interactions: 0
+[2020.02.04-13.23.07:928][302]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.02.04-13.23.08:058][303]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.04-13.23.08:058][303]MapCheck: New page: ThirdPersonExampleMap - 4 févr. 2020 15:23:08
+[2020.02.04-13.23.08:062][303]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,216ms to complete.
+[2020.02.04-13.23.12:104][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.23.12:509][811]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-13.23.22:670][ 27]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.02.04-13.23.32:119][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.23.36:638][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-13.23.39:265][983]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
