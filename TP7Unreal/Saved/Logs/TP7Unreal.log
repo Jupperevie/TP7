@@ -4053,3 +4053,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-14.32.22:290][503]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.131
 [2020.02.04-14.32.22:305][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/CréationTP7/M_EauPiscine_Inst" FILE="D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/CréationTP7/M_EauPiscine_Inst.uasset" SILENT=true
 [2020.02.04-14.32.22:313][503]LogSavePackage: Moving 'D:/Dev/TP7/TP7Unreal/Saved/M_EauPiscine_Inst1211564440402AB54B24F285BD158132.tmp' to 'D:/Dev/TP7/TP7Unreal/Content/StarterContent/Materials/CréationTP7/M_EauPiscine_Inst.uasset'
+[2020.02.04-14.33.55:019][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.34.07:188][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.34.13:125][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.34.16:933][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.34.37:791][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.34.50:395][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.36.55:247][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.37.09:235][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.37.51:753][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.39.54:017][657]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.04-14.40.01:414][918]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.04-14.40.01:417][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.04-14.40.01:417][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.04-14.40.01:417][918]PIE: New page: PIE session: ThirdPersonExampleMap (4 févr. 2020 16:40:01)
+[2020.02.04-14.40.01:417][918]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.04-14.40.01:428][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010762s)
+[2020.02.04-14.40.01:429][918]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.04-14.40.01:430][918]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2020.02.04-14.40.01:430][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012446s)
+[2020.02.04-14.40.01:454][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.04-14.40.01:461][918]LogInit: XAudio2 using 'Haut-parleurs / écouteurs (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.04-14.40.01:476][918]LogInit: FAudioDevice initialized.
+[2020.02.04-14.40.01:485][918]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.04-14.40.01:487][918]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.04-15.40.01
+[2020.02.04-14.40.01:488][918]LogWorld: Bringing up level for play took: 0.001355
+[2020.02.04-14.40.01:488][918]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.02.04-14.40.01:489][918]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,577
+[2020.02.04-14.40.01:490][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.04-14.40.06:976][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.04-14.40.06:976][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-14.40.06:976][560]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.04-14.40.06:976][560]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-14.40.06:986][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.04-14.40.06:987][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.04-14.40.07:011][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.04-14.40.07:013][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.04-14.40.07:081][566]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.04-14.40.12:972][255]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.02.04-14.40.15:114][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-14.40.15:724][578]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-14.40.17:286][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.04-14.40.31:459][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.04-14.41.15:933][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.04-14.41.18:442][731]LogSlate: Window 'Save Content' being destroyed
+[2020.02.04-14.41.18:458][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="D:/Dev/TP7/TP7Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.04-14.41.18:482][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.04-14.41.18:595][731]LogSavePackage: Moving 'D:/Dev/TP7/TP7Unreal/Saved/ThirdPersonExampleMapD2929CDB4B050BFD1903C0B2B90A4A93.tmp' to 'D:/Dev/TP7/TP7Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.04-14.41.18:602][731]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.144
+[2020.02.04-14.43.08:000][695]LogTemp: Repeating last play command: Standalone Game
+[2020.02.04-14.43.08:024][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.04-14.43.09:218][695]LogSlate: Window 'Save Content' being destroyed
+[2020.02.04-14.43.09:232][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="D:/Dev/TP7/TP7Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.04-14.43.09:253][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.04-14.43.09:347][695]LogSavePackage: Moving 'D:/Dev/TP7/TP7Unreal/Saved/ThirdPersonExampleMapB6F640D448A16F07FEEAD1BEC4AA2DE1.tmp' to 'D:/Dev/TP7/TP7Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.04-14.43.09:354][695]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.122
+[2020.02.04-14.45.07:623][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
